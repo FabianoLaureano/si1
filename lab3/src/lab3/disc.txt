@@ -1,0 +1,6 @@
+Calculo Diferencial e Integral I,1,4
+Algebra Vetorial e Geometria Analitica,1,4
+Leitura e Producao de Textos,1,4
+Programacao I,1,4
+Introducao a Computacao,1,4
+Laboratorio de Programacao I,1,4
